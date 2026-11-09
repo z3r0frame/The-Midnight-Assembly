@@ -1,5 +1,5 @@
 ![Focus](https://img.shields.io/badge/Focus-Cybersecurity-red?style=for-the-badge)
-![Community](https://img.shields.io/badge/Community-Discord-blueviolet?style=for-the-badge)
+[![Community](https://img.shields.io/badge/Community-Discord-blueviolet?style=for-the-badge)](https://discord.gg/NhUET7ErGB)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 ![Made With](https://img.shields.io/badge/Made%20With-Coffee%20%26%20Curiosity-black?style=for-the-badge)
 
